@@ -26,10 +26,6 @@
 */
 #include "tomlcpp.hpp"
 #include "toml.h"
-#include <fstream>
-#include <memory>
-#include <string.h>
-#include <vector>
 
 using namespace toml;
 using std::string;
